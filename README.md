@@ -126,20 +126,6 @@ The application includes simulated Shopify data:
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# Multi-Tenant Shopify Data Ingestion & Insights Service
-
-## Overview
-This project is a multi-tenant data ingestion and insights service for Shopify stores. It allows enterprise retailers to onboard their Shopify stores, ingest customer, order, product, and event data, and visualize key business metrics in a dashboard.
-
-## Tech Stack
-- Backend & Frontend: Next.js (React)
-- Database: MySQL with Prisma ORM
-- Authentication: NextAuth (email/password)
-- Charting: Recharts
-- Deployment: Vercel
 
 ## Features
 - Multi-tenant architecture with data isolation by tenant
