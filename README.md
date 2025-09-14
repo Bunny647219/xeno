@@ -1,4 +1,5 @@
 # Shopify Data Ingestion & Insights Service
+Front end site link:https://exact-poet-77042603.figma.site/
 
 A multi-tenant Shopify analytics dashboard built with React, TypeScript, and Tailwind CSS that simulates how enterprise retailers can onboard, integrate, and analyze their customer data.
 
